@@ -9,3 +9,6 @@
 例如  print ("xingming: %s xuexiao：%s  "%(name,xuexiao))
 - %s用来替换字符串，%d用来替换整数
 - 加法和乘法都可以用于字符串的操作
+- if 和 else 写完后都要加冒号 if 后面接多个相应语句时，一定要对齐
+  if-elif-else
+- print默认自动换行 后面加逗号为不换行
